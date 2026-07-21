@@ -16,6 +16,7 @@ This repo brings together end-to-end Excel projects, each with its own workbook,
 - Financial modeling and analysis
 - Data visualization with charts
 - Business insights and recommendations
+- The repository also includes an **Assignments** folder with focused Excel exercises covering core functions and mini calculators.
 
 ---
 
@@ -24,6 +25,7 @@ This repo brings together end-to-end Excel projects, each with its own workbook,
 | # | Project | Description | Contents |
 | --- | --- | --- | --- |
 | 1 | **Depreciation Calculator** | Comparative analysis of Straight-Line vs. Diminishing Balance depreciation methods, with year-by-year schedules and charts. | Excel workbook, documentation PDF, presentation PDF |
+| 2 | **Excel Assignments** | Six skill-building exercises: logical functions, VLOOKUP, sales tracking, income and business analysis, startup costs, and overtime percentage. | 6 Excel workbooks |
 
 > More projects will be added here over time. Each project lives in its own folder.
 
@@ -33,7 +35,15 @@ This repo brings together end-to-end Excel projects, each with its own workbook,
 
 ```
 Excel-Projects/
-├─ Proect-1-Depreciation-Calculator/
+├─ Assignments/
+│  ├─ CoachX Assignment - 1 Logical Function.xlsx
+│  ├─ CoachX Assignment - 2 VLookup Functions.xlsx
+│  ├─ CoachX Assignment - 3 Online Sales Tracking Analysis.xlsx
+│  ├─ CoachX Assignment - 4 Income and Business Analysis.xlsx
+│  ├─ CoachX Assignment - 5 Startup Costs Calculator.xlsx
+│  ├─ CoachX Assignment - 6 Overtime Percentage Calculator.xlsx
+│  └─ README.md
+├─ Project-1-Depreciation-Calculator/
 │  ├─ Project-1(Depreciation-Calculator-Excel).xlsx
 │  ├─ Comparative Analysis of Depreciation Methods.pdf
 │  └─ Project-1(Depreciation Calculator Project Documentations).pdf
